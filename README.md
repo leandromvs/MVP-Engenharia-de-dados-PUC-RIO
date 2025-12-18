@@ -12,7 +12,7 @@ O objetivo é disponibilizar todos os artefatos necessários para validação do
 ---
 
 ## ✅ Observações Importantes:
-- No PDF, as telas foram printadas sem muito texto explicativo, pois **todo código está comentado** e pode ser conferido nos notebooks.
+- No PDF, as telas foram printadas sem muito texto explicativo, pois **todo código está comentado** e pode ser conferido nos notebooks e nos prints com um zoom 100%.
 - Um aprendizado relevante: foquei muito na parte mais complexa do trabalho e acabei não realizando commits frequentes. O versionamento principal ocorreu no **Databricks**. Ao perceber, fiz um **pull request** e salvei a versão final aqui.  
   Caso encontre pontos para melhoria, farei atualizações no GitHub.
 - Não atuo como desenvolvedor full-time há mais de 20 anos, então este projeto foi um grande aprendizado, tanto pelo conteúdo quanto pelos desafios ao longo do processo.
