@@ -22,20 +22,13 @@ O objetivo é disponibilizar todos os artefatos necessários para validação do
 ## 🔍 Como Validar o Trabalho:
 Você pode validar o trabalho de duas formas:
 
-1. **Consultando o PDF** (resumo com as analises, bachmarks, conclusão e evidências completas):
-   [Trabalho de final de Módulo PUC-Rio - Engenharia de Dados]: https://github.com/user-attachments/files/24273113/Trabalho.de.final.de.Modulo.PUC-Rio.-.Engenharia.de.Dados.pdf)
+1. **Consultando o PDF** - Documento contendo análises detalhadas, benchmarks, conclusões e evidências completas:
+  
+  [Trabalho de final de Módulo PUC-Rio - Engenharia de Dados]: https://github.com/user-attachments/files/24273113/Trabalho.de.final.de.Modulo.PUC-Rio.-.Engenharia.de.Dados.pdf)
     
 2. **Rodando os notebooks** (outputs já salvos).
-[1-preparação.ipynb](https://github.com/user-attachments/files/24273189/1-preparacao.ipynb)[2-bronze.ipynb](https://github.com/user-attachments/files/24273190/2-bronze.ipynb)[5-analise.ipynb](https://github.com/user-attachments/files/24273193/5-analise.ipynb)
-[4-gold.ipynb](https://github.com/user-attachments/files/24273192/4-gold.ipynb)
+[1-preparação.ipynb](https://github.com/user-attachments/files/24273189/1-preparacao.ipynb)
+[2-bronze.ipynb](https://github.com/user-attachments/files/24273190/2-bronze.ipynb)
 [3-silver.ipynb](https://github.com/user-attachments/files/24273191/3-silver.ipynb)
-
-
-
-
----
-
-
-## 📂 Estrutura do Repositório
-``
-
+[4-gold.ipynb](https://github.com/user-attachments/files/24273192/4-gold.ipynb)
+[5-analise.ipynb](https://github.com/user-attachments/files/24273193/5-analise.ipynb)
