@@ -23,8 +23,6 @@ O objetivo é disponibilizar todos os artefatos necessários para validação do
 Você pode validar o trabalho de duas formas:
 
 1. **Consultando o PDF** - Documento contendo análises detalhadas, benchmarks, conclusões e evidências completas:
-  
-[Trabalho de final de Módulo PUC-Rio - Engenharia de Dados]: 
 - https://github.com/user-attachments/files/24273113/Trabalho.de.final.de.Modulo.PUC-Rio.-.Engenharia.de.Dados.pdf)
     
 2. **Rodando os notebooks** (outputs já salvos).
