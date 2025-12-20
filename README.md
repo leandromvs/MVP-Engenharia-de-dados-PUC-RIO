@@ -2,7 +2,7 @@
 **Pós-Graduação em Ciência de Dados e Analytics - PUC-Rio**
 
 ## 📌 Descrição
-Este repositório contém o **trabalho final do módulo de Engenharia de Dados** da pós-graduação em Ciência de Dados e Analytics da **PUC-Rio**.
+Este repositório contém o **trabalho final do módulo de Engenharia de Dados** da pós-graduação em Ciência de Dados e Analytics da **PUC-Rio** postado em Dezembro de 2025.
 
 O objetivo é disponibilizar todos os artefatos necessários para validação do projeto, incluindo:
 - **Relatório em PDF** como guia para validação.
