@@ -7,7 +7,7 @@ Este repositório contém o **trabalho final do módulo de Engenharia de Dados**
 O objetivo é disponibilizar todos os artefatos necessários para validação do projeto, incluindo:
 - **Relatório em PDF** como guia para validação.
 - **Notebooks funcionais** com outputs salvos.
-- **Fontes de dados e referências utilizadas**.
+
 
 ---
 
