@@ -2,13 +2,13 @@
 **Pós-Graduação em Ciência de Dados e Analytics - PUC-Rio**
 
 ## 📌 Descrição
-Este repositório contém o **trabalho final do módulo de Engenharia de Dados** da pós-graduação em Ciência de Dados e Analytics da **PUC-Rio** postado em Dezembro de 2025.
+Este repositório contém o **trabalho final do módulo de Engenharia de Dados** da pós‑graduação em Ciência de Dados e Analytics da **PUC‑Rio**, entregue em dezembro de 2025.
+O conteúdo apresenta a construção de um pipeline inicial de ingestão, tratamento, análise descritiva e organização dos dados da ANP. O trabalho demonstra práticas fundamentais de engenharia de dados, como padronização, verificação de qualidade e catalogação das informações. Além disso, estabelece a base técnica necessária para evoluir o ecossistema analítico para estudos prescritivos mais complexos nos módulos seguintes.
 
 O objetivo é disponibilizar todos os artefatos necessários para validação do projeto, incluindo:
-- **Relatório em PDF** como guia para validação.
-- **Notebooks funcionais** com outputs salvos.
 
-
+Relatório em PDF como guia detalhado da análise realizada.
+Notebooks funcionais, já com outputs salvos, garantindo total replicabilidade.
 ---
 
 ## ✅ Observações Importantes:
